@@ -1,12 +1,12 @@
 {
   "name": "test",
+  "homepage": "https://DIMS667.github.io/frontend-E-com-agriculteur",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
-    "gh-pages": "^6.3.0",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-router-dom": "^7.1.3",
     "react-scripts": "5.0.1",
     "web-vitals": "^4.2.4"
@@ -15,7 +15,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -36,9 +38,10 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "autoprefixer": "^10.4.20",
     "install": "^0.13.0",
     "postcss": "^8.5.1",
-    "tailwindcss": "3"
+    "tailwindcss": "^3.3.0"
   }
 }
