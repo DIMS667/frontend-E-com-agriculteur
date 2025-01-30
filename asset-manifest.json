@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/frontend-E-com-agriculteur/static/css/main.d001bf61.css",
-    "main.js": "/frontend-E-com-agriculteur/static/js/main.dd4720ed.js",
+    "main.js": "/frontend-E-com-agriculteur/static/js/main.40884847.js",
     "static/js/488.2aef74fe.chunk.js": "/frontend-E-com-agriculteur/static/js/488.2aef74fe.chunk.js",
     "index.html": "/frontend-E-com-agriculteur/index.html",
     "main.d001bf61.css.map": "/frontend-E-com-agriculteur/static/css/main.d001bf61.css.map",
-    "main.dd4720ed.js.map": "/frontend-E-com-agriculteur/static/js/main.dd4720ed.js.map",
+    "main.40884847.js.map": "/frontend-E-com-agriculteur/static/js/main.40884847.js.map",
     "488.2aef74fe.chunk.js.map": "/frontend-E-com-agriculteur/static/js/488.2aef74fe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d001bf61.css",
-    "static/js/main.dd4720ed.js"
+    "static/js/main.40884847.js"
   ]
 }
